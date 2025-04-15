@@ -6,7 +6,6 @@ from hashlib import sha256
 import pickle
 from pathlib import Path
 
-# Initialize session state
 if 'data_store' not in st.session_state:
     st.session_state.data_store = {}
 if 'failed_attempts' not in st.session_state:
