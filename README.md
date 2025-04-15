@@ -50,14 +50,15 @@ A secure and simple data encryption and retrieval system built with **Streamlit*
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/secure-data-vault.git
-cd secure-data-vault
+https://github.com/armeennadeem197/Assignment-5.git
 
 2. Install dependencies
 pip install streamlit cryptography
 
 3. Run the Streamlit app
-streamlit run secure_vault_app.py
+streamlit run app.py
+
+```
 
 ✅ Default Master Passkey
 The master login passkey is set to: hello
